@@ -58,7 +58,7 @@
    ```env
    PORT=5000
    MONGO_URI=mongodb://localhost:27017/korca-tech-hub
-   JWT_SECRET=NjëSekretShumëIFortë
+   JWT_SECRET=TroubleTrouble
    FRONTEND_URL=http://localhost:5173
    SMTP_HOST=smtp.example.com
    SMTP_PORT=587
