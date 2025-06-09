@@ -2,7 +2,7 @@
 
 ## Përshkrimi
 
-**Korca Tech Hub** është një platformë moderne për mësim online (LMS), e ndërtuar me stack-un MERN (MongoDB, Express, React, Node.js). Platforma ofron:
+"Korca Tech Hub" është një platformë moderne për mësim online (LMS), e ndërtuar me stack-un MERN (MongoDB, Express, React, Node.js). Platforma ofron:
 
 - Regjistrim dhe login me role (administrator, instruktor, student)
 - Menaxhim të kurseve, leksioneve dhe regjistrimeve
@@ -122,9 +122,9 @@ korca-tech-hub/
 │   ├── package.json
 ```
 
-## Kontribuoni
+## Sugjerime
 
-Mirëpresim pull request-e dhe sugjerime për përmirësim. Ju lutemi ndiqni standardet e kodimit dhe krijoni issue për bug ose feature requests.
+Mirëpres pull request-e dhe sugjerime për përmirësim. Ju lutemi ndiqni standardet e kodimit dhe krijoni issue për bug ose feature requests.
 
 ## Kontakt
 
